@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q7B/2GEh7zgPFCfCy/saJ3QuCor7dr3sC+anz/VVv+0=",
+  "Source": "Hacker.News.WebAPI",
+  "BasePath": "_content/Hacker.News.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
