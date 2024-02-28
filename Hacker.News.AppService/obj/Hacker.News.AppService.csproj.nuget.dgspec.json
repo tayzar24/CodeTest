@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.AppService\\Hacker.News.AppService.csproj": {}
+  },
+  "projects": {
+    "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.AppService\\Hacker.News.AppService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.AppService\\Hacker.News.AppService.csproj",
+        "projectName": "Hacker.News.AppService",
+        "projectPath": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.AppService\\Hacker.News.AppService.csproj",
+        "packagesPath": "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\",
+        "outputPath": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.AppService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tayzarmyat.noe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\Hacker.News.Common.csproj": {
+                "projectPath": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\Hacker.News.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\Hacker.News.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\Hacker.News.Common.csproj",
+        "projectName": "Hacker.News.Common",
+        "projectPath": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\Hacker.News.Common.csproj",
+        "packagesPath": "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\",
+        "outputPath": "D:\\Tay Zar Myat Noe\\Hacker.News\\Hacker.News.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tayzarmyat.noe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

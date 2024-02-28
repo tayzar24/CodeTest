@@ -1,0 +1,5 @@
+2024-02-28 09:20:34,589  INFO   [1]  Now listening on: https://localhost:7121
+2024-02-28 09:20:34,627  INFO   [1]  Now listening on: http://localhost:5217
+2024-02-28 09:20:34,647  INFO   [1]  Application started. Press Ctrl+C to shut down.
+2024-02-28 09:20:34,652  INFO   [1]  Hosting environment: Development
+2024-02-28 09:20:34,656  INFO   [1]  Content root path: D:\Tay Zar Myat Noe\Hacker.News\Hacker.News.WebAPI\Hacker.News.WebAPI\
